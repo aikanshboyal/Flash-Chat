@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996115003455",
+    "project_id": "flash-chat-db123",
+    "storage_bucket": "flash-chat-db123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996115003455:android:ab64831efb420a99a7e08a",
+        "android_client_info": {
+          "package_name": "com.AikanshBoyal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996115003455-t71jqqls0mmth5effkmmrsh7mmemb881.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoRx6OW2vSXUhIfcoptru5jadD8tY5xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996115003455-t71jqqls0mmth5effkmmrsh7mmemb881.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
